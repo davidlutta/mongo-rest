@@ -1,0 +1,4 @@
+/.env
+/.idea
+/mongo.iml
+/node_modules
